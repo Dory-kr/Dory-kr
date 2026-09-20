@@ -28,13 +28,13 @@ A responsive note management application built with React and TypeScript. The pr
 
 **Tech stack:** React, TypeScript, React Query, Axios, REST API, CSS Modules, Git
 
-[https://github.com/Dory-kr](https://github.com/Dory-kr/09-auth)
+[09-auth](https://github.com/Dory-kr/09-auth)
 
-[https://github.com/Dory-kr](https://github.com/Dory-kr/07-routing-nextjs)
+[07-routing-nextjs](https://github.com/Dory-kr/07-routing-nextjs)
 
-[https://github.com/Dory-kr](https://github.com/Dory-kr/05-notehub)
+[05-notehub](https://github.com/Dory-kr/05-notehub)
 
-[https://github.com/Dory-kr](https://github.com/Dory-kr/03-react-movies)
+[03-react-movies](https://github.com/Dory-kr/03-react-movies)
 
 ### Pure Moment
 
