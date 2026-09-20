@@ -28,7 +28,7 @@ A responsive note management application built with React and TypeScript. The pr
 
 **Tech stack:** React, TypeScript, React Query, Axios, REST API, CSS Modules, Git
 
-[Repository]([https://github.com/Dory-kr](https://github.com/Dory-kr/09-auth))
+[https://github.com/Dory-kr](https://github.com/Dory-kr/09-auth)
 [Repository]([https://github.com/Dory-kr](https://github.com/Dory-kr/07-routing-nextjs))
 [Repository]([https://github.com/Dory-kr](https://github.com/Dory-kr/05-notehub))
 [Repository]([https://github.com/Dory-kr](https://github.com/Dory-kr/03-react-movies))
